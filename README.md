@@ -15,5 +15,6 @@ This repository contains my **Data Structures and Algorithms (DSA) solutions imp
 ### Structure
 The repository is organized by DSA topics for clarity and easy navigation:
 
+## 📂 Topics Covered
 
 
